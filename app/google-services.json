@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34377299852",
+    "project_id": "push-android-js",
+    "storage_bucket": "push-android-js.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34377299852:android:d1c28503b63576c0b2c8a9",
+        "android_client_info": {
+          "package_name": "com.example.mypushandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34377299852-jncr0uh00her2pr898i92mfe9d185pab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHcNNdusgq2-6DgO0PZ8lwXLzD_ynAkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34377299852-jncr0uh00her2pr898i92mfe9d185pab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
